@@ -3,7 +3,7 @@ export const PASSWORD = "DEMO@PAVE@2021";
 
 export const API_KEY = "TVC-Prod"
 export const PHONE_NUMBER_FORM = "+84335101243";
-export const PHONE_NUMBER_TO = "335101243";
+export const PHONE_NUMBER_TO = "+84335101243";
 export const VIN = "5n1at2mv0hc817164";
 
 export const FIRST_NAME = "TU";
